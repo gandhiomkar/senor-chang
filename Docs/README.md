@@ -32,8 +32,8 @@ A multi-user, stateless chatbot designed to help people learn any language throu
 
 #### Setup Instructions
 
-  - API guide
-  - Client Interface guide
+  - [API guide](https://github.com/gandhiomkar/senor-chang/blob/main/Docs/api.md)
+  - [Client Interface guide](https://github.com/gandhiomkar/senor-chang/blob/main/Docs/client_interface.md)
 
 1. **Clone the repository**
    ```bash
