@@ -32,6 +32,9 @@ A multi-user, stateless chatbot designed to help people learn any language throu
 
 #### Setup Instructions
 
+  - API guide
+  - Client Interface guide
+
 1. **Clone the repository**
    ```bash
    git clone https://github.com/gandhiomkar/senor-chang.git
@@ -94,11 +97,11 @@ A multi-user, stateless chatbot designed to help people learn any language throu
     Hello! 👋 Ready to practice your {target_language} skills?
 
     Please choose a conversation scenario:
-    1. 🍽️ Ordering food at a restaurant
-    2. 🗺️ Asking for directions
-    3. 🏨 Booking a hotel room
-    4. 🛍️ Shopping in a store
-    5. 💬 Making small talk
+    6. 🍽️ Ordering food at a restaurant
+    7. 🗺️ Asking for directions
+    8. 🏨 Booking a hotel room
+    9. 🛍️ Shopping in a store
+    10. 💬 Making small talk
 
     Type the number of the scenario you want to try!
 
@@ -123,7 +126,7 @@ A multi-user, stateless chatbot designed to help people learn any language throu
 
     ```
 
-1. **Run the chatbot**
+6. **Run the chatbot**
    ```bash
    python main.py
    ```
