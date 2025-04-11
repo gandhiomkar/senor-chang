@@ -2,8 +2,12 @@ __pycache__/
 
 venv/
 
+prompts/
+
 .env
 
 .vscode
 
 *.db
+
+*.ipynb

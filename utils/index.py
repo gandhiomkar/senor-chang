@@ -78,3 +78,8 @@ def update_user_profile(user: User, target_lang: str, target_lvl: str, native_la
         db.refresh(user_in_db)
 
         return user_in_db
+    
+
+def load_prompt(path: str) -> str:
+    with open(path, 'r', encoding='utf-8') as file:
+        return file.read()
